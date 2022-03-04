@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-api-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-api-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-chrome-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-chrome-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-chromium-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-chromium-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v85-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v85-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v95-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v95-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v96-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v96-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v97-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-devtools-v97-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-edge-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-edge-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-firefox-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-firefox-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-firefox-xpi-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-firefox-xpi-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-http-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-http-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-ie-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-ie-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-java-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-java-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-json-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-json-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-opera-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-opera-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-remote-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-remote-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-safari-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-safari-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Danil/Documents/INF04/Afstuderen/JARs/selenium-support-4.1.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
